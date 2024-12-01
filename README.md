@@ -1,5 +1,5 @@
 # Embedded systems ECE Labs, Faculty of Engineering, Alexandria University
-## Lab1: Basic Button and LED interaction (In 'master' branch)
-## Lab2 : Key-Lock Application (In 'Lab2_branch' branch)
-## Lab3: Digital IC Tester
+## Lab1: Basic Button and LED interaction 
+## Lab2 : Key-Lock Application 
+## Lab3: Digital IC Tester (Tests the 4077 Quad 2-input xnor gates, and the 7485 4-bit comparator IC)
   
