@@ -21,11 +21,7 @@
 					7		8	GND	|8(in)				(in) 9|	  B0	9    0
 									|__________7485___________|
  
- 
  */ 
-
-
-
 
 #ifndef COMPARATOR_4BIT_H_
 	#define COMPARATOR_4BIT_H_
